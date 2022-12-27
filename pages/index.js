@@ -41,7 +41,6 @@ export default function Home() {
         <title>OpenAI Quickstart</title>
         <link rel="icon" href="/dog.png" />
       </Head>
-
       <main className={styles.main}>
         <img src="/ideas.png" className={styles.icon} />
         <h3>Instant Quiz Question</h3>
